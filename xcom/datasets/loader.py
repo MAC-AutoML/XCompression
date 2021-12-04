@@ -19,7 +19,6 @@ _DATASETS = {"cifar10": xcom_Cifar10, "imagenet": xcom_ImageFolder}
 
 
 def construct_loader(dataset_name, split_list, batch_size):
-    # Default data directory (/path/pycls/pycls/datasets/data)
     if cfg.DATA_LOADER.MEMORY_DATA:
         _DATA_DIR = "/userhome/temp_data"
     else:
