@@ -17,4 +17,4 @@ SNG:
   GAMMA: 0.9
 DATA_LOADER:
   BACKEND: 'custom'
-OUT_DIR: '/userhome/project/XNAS/experiment/ASNG_test'
+OUT_DIR: '/userhome/project/xcom/experiment/ASNG_test'

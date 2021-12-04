@@ -22,4 +22,4 @@ OPTIM:
   MAX_EPOCH: 50
   UNROLLED: False
   MIN_LR: 0.0
-OUT_DIR: '/userhome/XNAS/experiment/pcdarts'
+OUT_DIR: '/userhome/xcom/experiment/pcdarts'

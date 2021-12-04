@@ -32,4 +32,4 @@ SNG:
   WARMUP_RANDOM_SAMPLE: True
 DATA_LOADER:
   BACKEND: 'custom'
-OUT_DIR: '/userhome/project/XNAS/experiment/MIGO_test'
+OUT_DIR: '/userhome/project/xcom/experiment/MIGO_test'

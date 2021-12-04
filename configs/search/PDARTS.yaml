@@ -34,4 +34,4 @@ PDARTS:
   add_layers: 0
   add_width: 0
   dropout_rate: 0.1
-OUT_DIR: '/userhome/project/XNAS/experiment/pdarts/'
+OUT_DIR: '/userhome/project/xcom/experiment/pdarts/'
