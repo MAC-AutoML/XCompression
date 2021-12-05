@@ -26,7 +26,7 @@ from torch.nn import Module
 
 
 # Stage depths for ImageNet models
-_IN_STAGE_DS = {50: (3, 4, 6, 3), 101: (3, 4, 23, 3), 152: (3, 8, 36, 3)}
+_IN_STAGE_DS = {18:(2,2,2,2), 34:(3,4,6,3), 50: (3, 4, 6, 3), 101: (3, 4, 23, 3), 152: (3, 8, 36, 3)}
 
 
 def get_trans_fun(name):
